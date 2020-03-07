@@ -47,7 +47,7 @@ import androidx.preference.PreferenceGroup;
 import androidx.preference.PreferenceScreen;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.internal.custom.app.LineageContextConstants;
+import lineageos.app.LineageContextConstants;
 
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
